@@ -1,0 +1,1200 @@
+[{
+      "amount": 708362.24,
+      "account_id": "sacct2cgsavu1tnrvssbv22w",
+      "stage": "evaluation_scheduled",
+      "name": "Aerodynamic Bronze Bench",
+      "account_id__r": {
+        "name": "McDermott-McDermott",
+        "id": "sacct2cgsavu1tnrvssbv22w"
+      },
+      "id": "sopty2cgsaw3e73n6jmr2dq2",
+      "status__r": {
+        "code": "duplicate_opportunity",
+        "name": "Duplicate Opportunity"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-2887-1099-5019",
+      "stage__r": {
+        "code": "evaluation_scheduled",
+        "name": "Evaluation Scheduled"
+      },
+      "status": "duplicate_opportunity"
+    },
+    {
+      "amount": 971629.15,
+      "account_id": "sacct2cgsavtcq4x67jfs6nc",
+      "stage": "prospect",
+      "name": "Aerodynamic Bronze Bench",
+      "account_id__r": {
+        "name": "Osinski-Osinski",
+        "id": "sacct2cgsavtcq4x67jfs6nc"
+      },
+      "id": "sopty2cgsaw45w37rdpcaej8",
+      "status__r": {
+        "code": "approved",
+        "name": "Approved"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-6920-0421-2454",
+      "stage__r": {
+        "code": "prospect",
+        "name": "Prospect"
+      },
+      "status": "approved"
+    },
+    {
+      "amount": 468762.78,
+      "account_id": "sacct2cgsavu6m4knbew1rj6",
+      "stage": "initial_evaluation",
+      "name": "Aerodynamic Bronze Bag",
+      "account_id__r": {
+        "name": "O'Hara-O'Hara",
+        "id": "sacct2cgsavu6m4knbew1rj6"
+      },
+      "id": "sopty2cgsaw3wp46ywwwyqum",
+      "status__r": {
+        "code": "long-term_hold__manager_approval",
+        "name": "Long-term hold (Manager Approval)"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-6937-3361-8850",
+      "stage__r": {
+        "code": "initial_evaluation",
+        "name": "Initial Evaluation"
+      },
+      "status": "long-term_hold__manager_approval"
+    },
+    {
+      "amount": 100874.94,
+      "account_id": "sacct2cgsavufg3xmxqpq4f9",
+      "stage": "phone_consultation_complete",
+      "name": "Aerodynamic Bronze Bag",
+      "account_id__r": {
+        "name": "Cole-Cole",
+        "id": "sacct2cgsavufg3xmxqpq4f9"
+      },
+      "id": "sopty2cgsaw3cg845y1hrxcw",
+      "status__r": {
+        "code": "deal_pending",
+        "name": "Deal Pending"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-6520-4142-2985",
+      "stage__r": {
+        "code": "phone_consultation_complete",
+        "name": "Phone consultation complete"
+      },
+      "status": "deal_pending"
+    },
+    {
+      "amount": 174722.58,
+      "account_id": "sacct2cgsavspg8wm1mcv5d4",
+      "stage": "not_passed_to_partner",
+      "name": "Aerodynamic Bronze Bag",
+      "account_id__r": {
+        "name": "Strosin, Strosin and Strosin",
+        "id": "sacct2cgsavspg8wm1mcv5d4"
+      },
+      "id": "sopty2cgsaw3t24anxp8vjay",
+      "status__r": {
+        "code": "medium_probability_of_close",
+        "name": "Medium Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7698-7809-7585",
+      "stage__r": {
+        "code": "not_passed_to_partner",
+        "name": "Not Passed to Partner"
+      },
+      "status": "medium_probability_of_close"
+    },
+    {
+      "amount": 297184.34,
+      "account_id": "sacct2cgsavsm42xtxsqvjj9",
+      "stage": "initial_evaluation",
+      "name": "Aerodynamic Bronze Bag",
+      "account_id__r": {
+        "name": "Renner-Renner",
+        "id": "sacct2cgsavsm42xtxsqvjj9"
+      },
+      "id": "sopty2cgsaw3p93r9zr32jhf",
+      "status__r": {
+        "code": "duplicate_opportunity",
+        "name": "Duplicate Opportunity"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5348-0726-8399",
+      "stage__r": {
+        "code": "initial_evaluation",
+        "name": "Initial Evaluation"
+      },
+      "status": "duplicate_opportunity"
+    },
+    {
+      "amount": 889365.95,
+      "account_id": "sacct2cgsavua23pw5e321gk",
+      "stage": "not_interested",
+      "name": "Aerodynamic Aluminum Watch",
+      "account_id__r": {
+        "name": "Stark, Stark and Stark",
+        "id": "sacct2cgsavua23pw5e321gk"
+      },
+      "id": "sopty2cgsaw3mg3eg6wc7w7g",
+      "status__r": {
+        "code": "pending",
+        "name": "Pending"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-4899-1421-6173",
+      "stage__r": {
+        "code": "not_interested",
+        "name": "Not Interested"
+      },
+      "status": "pending"
+    },
+    {
+      "amount": 908113.37,
+      "account_id": "sacct2cgsavuer3b62671avb",
+      "stage": "phone_consultation_scheduled",
+      "name": "Aerodynamic Aluminum Watch",
+      "account_id__r": {
+        "name": "Collins-Collins",
+        "id": "sacct2cgsavuer3b62671avb"
+      },
+      "id": "sopty2cgsaw39u2zk8fraf9g",
+      "status__r": {
+        "code": "low_probability_of_close",
+        "name": "Low Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-6282-7215-5507",
+      "stage__r": {
+        "code": "phone_consultation_scheduled",
+        "name": "Phone consultation scheduled"
+      },
+      "status": "low_probability_of_close"
+    },
+    {
+      "amount": 292105.37,
+      "account_id": "sacct2cgsavttr4s95unfkq2",
+      "stage": "missed_consultation",
+      "name": "Aerodynamic Aluminum Watch",
+      "account_id__r": {
+        "name": "Heaney and Sons",
+        "id": "sacct2cgsavttr4s95unfkq2"
+      },
+      "id": "sopty2cgsaw3ad5q5bkm2vuu",
+      "status__r": {
+        "code": "unqualified",
+        "name": "Unqualified"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8725-4323-4028",
+      "stage__r": {
+        "code": "missed_consultation",
+        "name": "Missed Consultation"
+      },
+      "status": "unqualified"
+    },
+    {
+      "amount": 822562.63,
+      "account_id": "sacct2cgsavss75ztbvxhuap",
+      "stage": "onboarding",
+      "name": "Aerodynamic Aluminum Wallet",
+      "account_id__r": {
+        "name": "Bahringer-Bahringer",
+        "id": "sacct2cgsavss75ztbvxhuap"
+      },
+      "id": "sopty2cgsaw3zaj77negxu5w",
+      "status__r": {
+        "code": "not_ready_to_move_forward",
+        "name": "Not Ready To Move Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7988-6411-6013",
+      "stage__r": {
+        "code": "onboarding",
+        "name": "Onboarding"
+      },
+      "status": "not_ready_to_move_forward"
+    },
+    {
+      "amount": 704065.98,
+      "account_id": "sacct2cgsavufb5db3dhupgd",
+      "stage": "onboarding",
+      "name": "Aerodynamic Aluminum Wallet",
+      "account_id__r": {
+        "name": "Heathcote-Heathcote",
+        "id": "sacct2cgsavufb5db3dhupgd"
+      },
+      "id": "sopty2cgsaw3kd7p3sa4u91c",
+      "status__r": {
+        "code": "competitor",
+        "name": "Competitor"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8704-9499-7268",
+      "stage__r": {
+        "code": "onboarding",
+        "name": "Onboarding"
+      },
+      "status": "competitor"
+    },
+    {
+      "amount": 901465.51,
+      "account_id": "sacct2cgsavt68crdyszc6uz",
+      "stage": "phone_consultation_complete",
+      "name": "Aerodynamic Aluminum Wallet",
+      "account_id__r": {
+        "name": "Erdman Inc",
+        "id": "sacct2cgsavt68crdyszc6uz"
+      },
+      "id": "sopty2cgsaw3b36v9yqf6eys",
+      "status__r": {
+        "code": "low_probability_of_close",
+        "name": "Low Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8760-0194-1898",
+      "stage__r": {
+        "code": "phone_consultation_complete",
+        "name": "Phone consultation complete"
+      },
+      "status": "low_probability_of_close"
+    },
+    {
+      "amount": 103394.86,
+      "account_id": "sacct2cgsavs9d6zqg2x3s61",
+      "stage": "prospect",
+      "name": "Aerodynamic Aluminum Wallet",
+      "account_id__r": {
+        "name": "Rippin-Rippin",
+        "id": "sacct2cgsavs9d6zqg2x3s61"
+      },
+      "id": "sopty2cgsaw3kjmvhfbsvkz1",
+      "status__r": {
+        "code": "not_moving_forward",
+        "name": "Not Moving Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5858-4377-6081",
+      "stage__r": {
+        "code": "prospect",
+        "name": "Prospect"
+      },
+      "status": "not_moving_forward"
+    },
+    {
+      "amount": 446584.03,
+      "account_id": "sacct2cgsavuf53q1py5ys78",
+      "stage": "unqualified",
+      "name": "Aerodynamic Aluminum Wallet",
+      "account_id__r": {
+        "name": "Reichert-Reichert",
+        "id": "sacct2cgsavuf53q1py5ys78"
+      },
+      "id": "sopty2cgsaw41v4cxgjvgeuy",
+      "status__r": {
+        "code": "open",
+        "name": "Open"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8991-5777-9641",
+      "stage__r": {
+        "code": "unqualified",
+        "name": "Unqualified"
+      },
+      "status": "open"
+    },
+    {
+      "amount": 864029.57,
+      "account_id": "sacct2cgsavs2287jrzbxfnv",
+      "stage": "in_progress",
+      "name": "Aerodynamic Aluminum Table",
+      "account_id__r": {
+        "name": "Goyette Group",
+        "id": "sacct2cgsavs2287jrzbxfnv"
+      },
+      "id": "sopty2cgsaw3mxax2t9q5c75",
+      "status__r": {
+        "code": "competitor",
+        "name": "Competitor"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5810-7135-4652",
+      "stage__r": {
+        "code": "in_progress",
+        "name": "In Progress"
+      },
+      "status": "competitor"
+    },
+    {
+      "amount": 642776.98,
+      "account_id": "sacct2cgsavtqy26wzmxm5z3",
+      "stage": "not_interested",
+      "name": "Aerodynamic Aluminum Pants",
+      "account_id__r": {
+        "name": "Cremin, Cremin and Cremin",
+        "id": "sacct2cgsavtqy26wzmxm5z3"
+      },
+      "id": "sopty2cgsaw3pe2j787bwqna",
+      "status__r": {
+        "code": "not_ready_to_move_forward",
+        "name": "Not Ready To Move Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-9134-1941-8579",
+      "stage__r": {
+        "code": "not_interested",
+        "name": "Not Interested"
+      },
+      "status": "not_ready_to_move_forward"
+    },
+    {
+      "amount": 224976.71,
+      "account_id": "sacct2cgsavr6d2s6w8z5fjj",
+      "stage": "closed_won",
+      "name": "Aerodynamic Aluminum Pants",
+      "account_id__r": {
+        "name": "Kovacek Group",
+        "id": "sacct2cgsavr6d2s6w8z5fjj"
+      },
+      "id": "sopty2cgsaw3zj4x2uc5s1jj",
+      "status__r": {
+        "code": "missed_consultation",
+        "name": "Missed Consultation"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8716-3431-3775",
+      "stage__r": {
+        "code": "closed_won",
+        "name": "Closed Won"
+      },
+      "status": "missed_consultation"
+    },
+    {
+      "amount": 140617.82,
+      "account_id": "sacct2cgsavr4r8f681fm57q",
+      "stage": "missed_consultation",
+      "name": "Aerodynamic Aluminum Pants",
+      "account_id__r": {
+        "name": "Hahn, Hahn and Hahn",
+        "id": "sacct2cgsavr4r8f681fm57q"
+      },
+      "id": "sopty2cgsaw45c8qgcsfyeyg",
+      "status__r": {
+        "code": "high_probability_of_close",
+        "name": "High Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5541-3256-2478",
+      "stage__r": {
+        "code": "missed_consultation",
+        "name": "Missed Consultation"
+      },
+      "status": "high_probability_of_close"
+    },
+    {
+      "amount": 881563.01,
+      "account_id": "sacct2cgsavswz5nxf1c5qa4",
+      "stage": "phone_consultation_scheduled",
+      "name": "Aerodynamic Aluminum Pants",
+      "account_id__r": {
+        "name": "Ullrich-Ullrich",
+        "id": "sacct2cgsavswz5nxf1c5qa4"
+      },
+      "id": "sopty2cgsaw3nmn3zp4658yv",
+      "status__r": {
+        "code": "not_interested",
+        "name": "Not Interested"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-6106-7287-3840",
+      "stage__r": {
+        "code": "phone_consultation_scheduled",
+        "name": "Phone consultation scheduled"
+      },
+      "status": "not_interested"
+    },
+    {
+      "amount": 598368.16,
+      "account_id": "sacct2cgsavrz52arxmpzer9",
+      "stage": "disqualified",
+      "name": "Aerodynamic Aluminum Pants",
+      "account_id__r": {
+        "name": "Wilkinson, Wilkinson and Wilkinson",
+        "id": "sacct2cgsavrz52arxmpzer9"
+      },
+      "id": "sopty2cgsaw3t78a2c9qvc4g",
+      "status__r": {
+        "code": "not_ready_to_move_forward",
+        "name": "Not Ready To Move Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5915-8354-2845",
+      "stage__r": {
+        "code": "disqualified",
+        "name": "Disqualified"
+      },
+      "status": "not_ready_to_move_forward"
+    },
+    {
+      "amount": 763018.51,
+      "account_id": "sacct2cgsavr523ahur4htah",
+      "stage": "phone_consultation_complete",
+      "name": "Aerodynamic Aluminum Knife",
+      "account_id__r": {
+        "name": "Steuber, Steuber and Steuber",
+        "id": "sacct2cgsavr523ahur4htah"
+      },
+      "id": "sopty2cgsaw39n2wczm37p3d",
+      "status__r": {
+        "code": "canceled",
+        "name": "Canceled"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7940-1379-8902",
+      "stage__r": {
+        "code": "phone_consultation_complete",
+        "name": "Phone consultation complete"
+      },
+      "status": "canceled"
+    },
+    {
+      "amount": 868702.7,
+      "account_id": "sacct2cgsavuag4zndp98py1",
+      "stage": "new_inquiry",
+      "name": "Aerodynamic Aluminum Knife",
+      "account_id__r": {
+        "name": "Ritchie Inc",
+        "id": "sacct2cgsavuag4zndp98py1"
+      },
+      "id": "sopty2cgsaw3rc59vvqs57s6",
+      "status__r": {
+        "code": "not_moving_forward",
+        "name": "Not Moving Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-9272-4452-3046",
+      "stage__r": {
+        "code": "new_inquiry",
+        "name": "New Inquiry"
+      },
+      "status": "not_moving_forward"
+    },
+    {
+      "amount": 380368.13,
+      "account_id": "sacct2cgsavrdk74yfhuk9qc",
+      "stage": "onboarding",
+      "name": "Aerodynamic Aluminum Knife",
+      "account_id__r": {
+        "name": "Hickle-Hickle",
+        "id": "sacct2cgsavrdk74yfhuk9qc"
+      },
+      "id": "sopty2cgsaw3k77u44et4azh",
+      "status__r": {
+        "code": "submitted",
+        "name": "Submitted"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8014-8706-3085",
+      "stage__r": {
+        "code": "onboarding",
+        "name": "Onboarding"
+      },
+      "status": "submitted"
+    },
+    {
+      "amount": 151264.52,
+      "account_id": "sacct2cgsavs9w2mq23g3jxh",
+      "stage": "in_progress",
+      "name": "Aerodynamic Aluminum Knife",
+      "account_id__r": {
+        "name": "Thompson LLC",
+        "id": "sacct2cgsavs9w2mq23g3jxh"
+      },
+      "id": "sopty2cgsaw39k8z5fmaaq9u",
+      "status__r": {
+        "code": "submitted",
+        "name": "Submitted"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-6746-0211-2227",
+      "stage__r": {
+        "code": "in_progress",
+        "name": "In Progress"
+      },
+      "status": "submitted"
+    },
+    {
+      "amount": 670291.45,
+      "account_id": "sacct2cgsavudc2mg3gn5vzn",
+      "stage": "disqualified",
+      "name": "Aerodynamic Aluminum Knife",
+      "account_id__r": {
+        "name": "Kihn Inc",
+        "id": "sacct2cgsavudc2mg3gn5vzn"
+      },
+      "id": "sopty2cgsaw4256q6bc3ztxb",
+      "status__r": {
+        "code": "not_rescheduled",
+        "name": "Not Rescheduled"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-2698-1638-3223",
+      "stage__r": {
+        "code": "disqualified",
+        "name": "Disqualified"
+      },
+      "status": "not_rescheduled"
+    },
+    {
+      "amount": 528293.92,
+      "account_id": "sacct2cgsavr5x8ukden4qnt",
+      "stage": "diligence_alignment",
+      "name": "Aerodynamic Aluminum Keyboard",
+      "account_id__r": {
+        "name": "Deckow, Deckow and Deckow",
+        "id": "sacct2cgsavr5x8ukden4qnt"
+      },
+      "id": "sopty2cgsaw3ma88hw1rbdsx",
+      "status__r": {
+        "code": "not_interested",
+        "name": "Not Interested"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-4103-7333-3310",
+      "stage__r": {
+        "code": "diligence_alignment",
+        "name": "Diligence & Alignment"
+      },
+      "status": "not_interested"
+    },
+    {
+      "amount": 725637.96,
+      "account_id": "sacct2cgsavstq8g6rdzu1xr",
+      "stage": "in_progress",
+      "name": "Aerodynamic Aluminum Keyboard",
+      "account_id__r": {
+        "name": "Walker LLC",
+        "id": "sacct2cgsavstq8g6rdzu1xr"
+      },
+      "id": "sopty2cgsaw49u2a7bd21vt9",
+      "status__r": {
+        "code": "other",
+        "name": "Other"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-3546-9723-8235",
+      "stage__r": {
+        "code": "in_progress",
+        "name": "In Progress"
+      },
+      "status": "other"
+    },
+    {
+      "amount": 676468.46,
+      "account_id": "sacct2cgsavsqp49amnw98s5",
+      "stage": "evaluation_scheduled",
+      "name": "Aerodynamic Aluminum Hat",
+      "account_id__r": {
+        "name": "Upton, Upton and Upton",
+        "id": "sacct2cgsavsqp49amnw98s5"
+      },
+      "id": "sopty2cgsaw3gj2raqmsbja4",
+      "status__r": {
+        "code": "medium_probability_of_close",
+        "name": "Medium Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-4614-3606-0784",
+      "stage__r": {
+        "code": "evaluation_scheduled",
+        "name": "Evaluation Scheduled"
+      },
+      "status": "medium_probability_of_close"
+    },
+    {
+      "amount": 532812.02,
+      "account_id": "sacct2cgsavt68crdyszc6uz",
+      "stage": "active_partner",
+      "name": "Aerodynamic Aluminum Hat",
+      "account_id__r": {
+        "name": "Erdman Inc",
+        "id": "sacct2cgsavt68crdyszc6uz"
+      },
+      "id": "sopty2cgsaw3b32mthtuxu48",
+      "status__r": {
+        "code": "poor_qualification",
+        "name": "Poor Qualification"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7266-2165-3144",
+      "stage__r": {
+        "code": "active_partner",
+        "name": "Active Partner"
+      },
+      "status": "poor_qualification"
+    },
+    {
+      "amount": 523713.66,
+      "account_id": "sacct2cgsavt5485xhej1dch",
+      "stage": "not_passed_to_partner",
+      "name": "Aerodynamic Aluminum Gloves",
+      "account_id__r": {
+        "name": "Schinner, Schinner and Schinner",
+        "id": "sacct2cgsavt5485xhej1dch"
+      },
+      "id": "sopty2cgsaw4283s3kd8w8xe",
+      "status__r": {
+        "code": "competitor",
+        "name": "Competitor"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-9163-5707-8762",
+      "stage__r": {
+        "code": "not_passed_to_partner",
+        "name": "Not Passed to Partner"
+      },
+      "status": "competitor"
+    },
+    {
+      "amount": 748024.08,
+      "account_id": "sacct2cgsavrkv4mgh7ac3y8",
+      "stage": "cancelled",
+      "name": "Aerodynamic Aluminum Gloves",
+      "account_id__r": {
+        "name": "Davis, Davis and Davis",
+        "id": "sacct2cgsavrkv4mgh7ac3y8"
+      },
+      "id": "sopty2cgsaw3ca6u8st6abyp",
+      "status__r": {
+        "code": "other",
+        "name": "Other"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7680-6282-7162",
+      "stage__r": {
+        "code": "cancelled",
+        "name": "Cancelled"
+      },
+      "status": "other"
+    },
+    {
+      "amount": 381536.23,
+      "account_id": "sacct2cgsavt184h9m3zyu5t",
+      "stage": "cancelled",
+      "name": "Aerodynamic Aluminum Computer",
+      "account_id__r": {
+        "name": "Goyette, Goyette and Goyette",
+        "id": "sacct2cgsavt184h9m3zyu5t"
+      },
+      "id": "sopty2cgsaw3bd8ztzvjhpgs",
+      "status__r": {
+        "code": "other",
+        "name": "Other"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7588-6375-4745",
+      "stage__r": {
+        "code": "cancelled",
+        "name": "Cancelled"
+      },
+      "status": "other"
+    },
+    {
+      "amount": 140822.08,
+      "account_id": "sacct2cgsavu533enwfvdmfs",
+      "stage": "closed_lost",
+      "name": "Aerodynamic Aluminum Computer",
+      "account_id__r": {
+        "name": "Stoltenberg LLC",
+        "id": "sacct2cgsavu533enwfvdmfs"
+      },
+      "id": "sopty2cgsaw3z26wf7t6dyxv",
+      "status__r": {
+        "code": "competitor",
+        "name": "Competitor"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-3107-6172-8743",
+      "stage__r": {
+        "code": "closed_lost",
+        "name": "Closed Lost"
+      },
+      "status": "competitor"
+    },
+    {
+      "amount": 655268.66,
+      "account_id": "sacct2cgsavttx5eev29wd1w",
+      "stage": "scheduled",
+      "name": "Aerodynamic Aluminum Computer",
+      "account_id__r": {
+        "name": "Howe-Howe",
+        "id": "sacct2cgsavttx5eev29wd1w"
+      },
+      "id": "sopty2cgsaw3p931293np2bf",
+      "status__r": {
+        "code": "working_with_partner",
+        "name": "Working with Partner"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7934-3684-2803",
+      "stage__r": {
+        "code": "scheduled",
+        "name": "Scheduled"
+      },
+      "status": "working_with_partner"
+    },
+    {
+      "amount": 343936.79,
+      "account_id": "sacct2cgsavsgs7nj1vuvbtp",
+      "stage": "new_inquiry",
+      "name": "Aerodynamic Aluminum Coat",
+      "account_id__r": {
+        "name": "Lubowitz, Lubowitz and Lubowitz",
+        "id": "sacct2cgsavsgs7nj1vuvbtp"
+      },
+      "id": "sopty2cgsaw3w92gprn4t3b7",
+      "status__r": {
+        "code": "other",
+        "name": "Other"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5601-6975-9451",
+      "stage__r": {
+        "code": "new_inquiry",
+        "name": "New Inquiry"
+      },
+      "status": "other"
+    },
+    {
+      "amount": 663202.93,
+      "account_id": "sacct2cgsavt1h6qrwct25g1",
+      "stage": "partner_enquiry",
+      "name": "Aerodynamic Aluminum Coat",
+      "account_id__r": {
+        "name": "Ziemann-Ziemann",
+        "id": "sacct2cgsavt1h6qrwct25g1"
+      },
+      "id": "sopty2cgsaw3wn64cczyb468",
+      "status__r": {
+        "code": "unqualified",
+        "name": "Unqualified"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-1481-1198-3930",
+      "stage__r": {
+        "code": "partner_enquiry",
+        "name": "Partner Enquiry"
+      },
+      "status": "unqualified"
+    },
+    {
+      "amount": 742682.64,
+      "account_id": "sacct2cgsavsbe3qt47huvt8",
+      "stage": "partner_enquiry",
+      "name": "Aerodynamic Aluminum Coat",
+      "account_id__r": {
+        "name": "Weber and Sons",
+        "id": "sacct2cgsavsbe3qt47huvt8"
+      },
+      "id": "sopty2cgsaw3d34yz5kdzxmp",
+      "status__r": {
+        "code": "low_probability_of_close",
+        "name": "Low Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5743-2374-0512",
+      "stage__r": {
+        "code": "partner_enquiry",
+        "name": "Partner Enquiry"
+      },
+      "status": "low_probability_of_close"
+    },
+    {
+      "amount": 311801.94,
+      "account_id": "sacct2cgsavsf39jrsane9bm",
+      "stage": "disqualified",
+      "name": "Aerodynamic Aluminum Chair",
+      "account_id__r": {
+        "name": "Yundt-Yundt",
+        "id": "sacct2cgsavsf39jrsane9bm"
+      },
+      "id": "sopty2cgsaw3x53f9wa5kp9m",
+      "status__r": {
+        "code": "not_moving_forward",
+        "name": "Not Moving Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5814-5054-8541",
+      "stage__r": {
+        "code": "disqualified",
+        "name": "Disqualified"
+      },
+      "status": "not_moving_forward"
+    },
+    {
+      "amount": 246692.83,
+      "account_id": "sacct2cgsavsxn4aqpphkws6",
+      "stage": "evaluation_completed",
+      "name": "Aerodynamic Aluminum Chair",
+      "account_id__r": {
+        "name": "Wisoky-Wisoky",
+        "id": "sacct2cgsavsxn4aqpphkws6"
+      },
+      "id": "sopty2cgsaw44x4xw8cbfztr",
+      "status__r": {
+        "code": "pending",
+        "name": "Pending"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-5735-0465-6594",
+      "stage__r": {
+        "code": "evaluation_completed",
+        "name": "Evaluation Completed"
+      },
+      "status": "pending"
+    },
+    {
+      "amount": 554428.03,
+      "account_id": "sacct2cgsavufp5rgs5pd8t1",
+      "stage": "closed_lost",
+      "name": "Aerodynamic Aluminum Chair",
+      "account_id__r": {
+        "name": "Botsford and Sons",
+        "id": "sacct2cgsavufp5rgs5pd8t1"
+      },
+      "id": "sopty2cgsaw3yb5453vpu2vy",
+      "status__r": {
+        "code": "open",
+        "name": "Open"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-2985-3101-3530",
+      "stage__r": {
+        "code": "closed_lost",
+        "name": "Closed Lost"
+      },
+      "status": "open"
+    },
+    {
+      "amount": 403693.69,
+      "account_id": "sacct2cgsavt7f3mde82gepk",
+      "stage": "scheduled",
+      "name": "Aerodynamic Aluminum Chair",
+      "account_id__r": {
+        "name": "King, King and King",
+        "id": "sacct2cgsavt7f3mde82gepk"
+      },
+      "id": "sopty2cgsaw3gm6epx3qg9fw",
+      "status__r": {
+        "code": "needs_more_time",
+        "name": "Needs More Time"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8977-3059-4554",
+      "stage__r": {
+        "code": "scheduled",
+        "name": "Scheduled"
+      },
+      "status": "needs_more_time"
+    },
+    {
+      "amount": 887212.71,
+      "account_id": "sacct2cgsavswa4cg4qc4ave",
+      "stage": "partner_enquiry",
+      "name": "Aerodynamic Aluminum Car",
+      "account_id__r": {
+        "name": "McClure-McClure",
+        "id": "sacct2cgsavswa4cg4qc4ave"
+      },
+      "id": "sopty2cgsaw3qu3922616p48",
+      "status__r": {
+        "code": "low_probability_of_close",
+        "name": "Low Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-1482-7105-2326",
+      "stage__r": {
+        "code": "partner_enquiry",
+        "name": "Partner Enquiry"
+      },
+      "status": "low_probability_of_close"
+    },
+    {
+      "amount": 381440.48,
+      "account_id": "sacct2cgsavrpr5trtj92919",
+      "stage": "initial_evaluation",
+      "name": "Aerodynamic Aluminum Car",
+      "account_id__r": {
+        "name": "Reilly and Sons",
+        "id": "sacct2cgsavrpr5trtj92919"
+      },
+      "id": "sopty2cgsaw3k18mqy4y1bz4",
+      "status__r": {
+        "code": "unqualified",
+        "name": "Unqualified"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-7679-7191-9705",
+      "stage__r": {
+        "code": "initial_evaluation",
+        "name": "Initial Evaluation"
+      },
+      "status": "unqualified"
+    },
+    {
+      "amount": 106403.13,
+      "account_id": "sacct2cgsavtu34skrt6ajcr",
+      "stage": "evaluation_scheduled",
+      "name": "Aerodynamic Aluminum Bottle",
+      "account_id__r": {
+        "name": "Olson, Olson and Olson",
+        "id": "sacct2cgsavtu34skrt6ajcr"
+      },
+      "id": "sopty2cgsaw3jk6sk5avpavm",
+      "status__r": {
+        "code": "not_moving_forward",
+        "name": "Not Moving Forward"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-3626-7332-7663",
+      "stage__r": {
+        "code": "evaluation_scheduled",
+        "name": "Evaluation Scheduled"
+      },
+      "status": "not_moving_forward"
+    },
+    {
+      "amount": 143078.34,
+      "account_id": "sacct2cgsavtev3r91rv1hcz",
+      "stage": "evaluation_completed",
+      "name": "Aerodynamic Aluminum Bottle",
+      "account_id__r": {
+        "name": "Price-Price",
+        "id": "sacct2cgsavtev3r91rv1hcz"
+      },
+      "id": "sopty2cgsaw3wz4rxzrsqnky",
+      "status__r": {
+        "code": "long-term_hold__manager_approval",
+        "name": "Long-term hold (Manager Approval)"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-1701-0494-6924",
+      "stage__r": {
+        "code": "evaluation_completed",
+        "name": "Evaluation Completed"
+      },
+      "status": "long-term_hold__manager_approval"
+    },
+    {
+      "amount": 614859.44,
+      "account_id": "sacct2cgsavu8teceurs3f8v",
+      "stage": "in_progress",
+      "name": "Aerodynamic Aluminum Bottle",
+      "account_id__r": {
+        "name": "Bosco-Bosco",
+        "id": "sacct2cgsavu8teceurs3f8v"
+      },
+      "id": "sopty2cgsaw3n37h34wzvq1s",
+      "status__r": {
+        "code": "needs_more_time",
+        "name": "Needs More Time"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-1194-5800-0856",
+      "stage__r": {
+        "code": "in_progress",
+        "name": "In Progress"
+      },
+      "status": "needs_more_time"
+    },
+    {
+      "amount": 107641.42,
+      "account_id": "sacct2cgsavt1u6nxc2f2b7r",
+      "stage": "unqualified",
+      "name": "Aerodynamic Aluminum Bench",
+      "account_id__r": {
+        "name": "Towne, Towne and Towne",
+        "id": "sacct2cgsavt1u6nxc2f2b7r"
+      },
+      "id": "sopty2cgsaw3xc74efs1stge",
+      "status__r": {
+        "code": "duplicate_opportunity",
+        "name": "Duplicate Opportunity"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-2537-3050-2383",
+      "stage__r": {
+        "code": "unqualified",
+        "name": "Unqualified"
+      },
+      "status": "duplicate_opportunity"
+    },
+    {
+      "amount": 378187.58,
+      "account_id": "sacct2cgsavsuf85bpz1xhjf",
+      "stage": "closed_lost",
+      "name": "Aerodynamic Aluminum Bench",
+      "account_id__r": {
+        "name": "Braun and Sons",
+        "id": "sacct2cgsavsuf85bpz1xhjf"
+      },
+      "id": "sopty2cgsaw4488hw7nq4k2t",
+      "status__r": {
+        "code": "poor_qualification",
+        "name": "Poor Qualification"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-8902-2523-1322",
+      "stage__r": {
+        "code": "closed_lost",
+        "name": "Closed Lost"
+      },
+      "status": "poor_qualification"
+    },
+    {
+      "amount": 203951.72,
+      "account_id": "sacct2cgsavsvx7a1nm2ckn5",
+      "stage": "closed_lost",
+      "name": "Aerodynamic Aluminum Bag",
+      "account_id__r": {
+        "name": "Koepp-Koepp",
+        "id": "sacct2cgsavsvx7a1nm2ckn5"
+      },
+      "id": "sopty2cgsaw3na2csacm2q8p",
+      "status__r": {
+        "code": "medium_probability_of_close",
+        "name": "Medium Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-3124-1326-3545",
+      "stage__r": {
+        "code": "closed_lost",
+        "name": "Closed Lost"
+      },
+      "status": "medium_probability_of_close"
+    },
+    {
+      "amount": 135210.1,
+      "account_id": "sacct2cgsavtu987tjverta6",
+      "stage": "prospect",
+      "name": "Aerodynamic Aluminum Bag",
+      "account_id__r": {
+        "name": "Kiehn and Sons",
+        "id": "sacct2cgsavtu987tjverta6"
+      },
+      "id": "sopty2cgsaw3es8rjududevh",
+      "status__r": {
+        "code": "low_probability_of_close",
+        "name": "Low Probability of Close"
+      },
+      "_metadata": {
+        "favorite": false
+      },
+      "key": "OPTY-2807-2192-3596",
+      "stage__r": {
+        "code": "prospect",
+        "name": "Prospect"
+      },
+      "status": "low_probability_of_close"
+    }]

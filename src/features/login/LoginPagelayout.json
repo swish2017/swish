@@ -1,0 +1,70 @@
+{
+    "content": {
+        "device_layouts": [
+            {
+                "type": "default",
+                "components": [{
+                    "type": "grid",
+                    "properties": {
+                        "gutter": true
+                    },
+                    "children": [
+                        {
+                            "type": "gridcolumn",
+                            "properties": {
+                                "columns": 8,
+                                "className": "sui-left-col-img"
+                            },
+                            "children": [
+                                {
+                                    "type": "image",
+                                    "properties": {
+                                        "src": "https://cdn.pixabay.com/photo/2017/03/17/20/22/cannabis-2152604_960_720.jpg"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "gridcolumn",
+                            "properties": {
+                                "columns": 4,
+                                "gutter": true
+                            },
+                            "children": [
+                                {
+                                    "type": "gridcolumn",
+                                    "properties": {
+                                        "columns": 12
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "login_form",
+                                            "properties": {
+                                                "columns": 12
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "gridcolumn",
+                                    "properties": {
+                                        "columns": 12,
+                                        "className": "sui-right-col-img"
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "image",
+                                            "properties": {
+                                                "src": "https://kbob.github.io/images/sample-5.jpg"
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }]
+            }
+        ]
+    }
+}

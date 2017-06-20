@@ -1,0 +1,42 @@
+body{
+    padding-top: 0 !important;
+}
+
+.customer-web .sui-page-content{
+    display: flex;
+    flex: 1 1 0%;
+    position: absolute;
+    outline: none;
+    overflow: hidden;
+    overflow-y: auto; 
+    user-select: text;
+    flex-direction: row;
+    height: 100%;
+    left: 0px;
+    right: 0px;
+    height: 90%;
+    height: calc(100% - 40px) !important;
+}
+.sui-app-bar-customer-web.sui-fixed-top{
+    position: static;
+}
+.wrapper{
+    display: flex;
+    flex-flow: column;
+}
+.Pane.vertical.Pane2{
+    overflow: auto !important;
+}
+.sticky-outer-wrapper{
+    background-color: #fff;
+    z-index: 1;
+}
+.sui-app-bar-customer-web .sui-logo-text{
+    font-size: 1.125rem;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 3px;
+}
+.sui-form{
+    width: 100%;
+}

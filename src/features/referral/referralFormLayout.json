@@ -1,0 +1,79 @@
+{
+  "updated_at": "2017-04-24T09:18:44.598Z",
+  "sys_updated_at": "2017-04-25T06:39:41.847Z",
+  "name": "My Opportunity Layout",
+  "description": "test1",
+  "created_at": "2016-12-30T00:40:35.000Z",
+  "updated_by_id": "suser2by5qgudm7sr5cczfwg",
+  "id": "spglt2c69apggg7ht68eg12a",
+  "created_by_id": "suser2by5qgudm7sr5cczfwg",
+  "type": "record",
+  "object_id": "stobj2bzygkb2t3132qbgv7v",
+  "key": "PGLT-2927-4401-1052",
+  "content": {
+    "version": "v2",
+    "device_layouts": [
+      {
+        "type": "mobile",
+        "title": "Opportunity",
+        "components": [
+          {
+            "type": "grid",
+            "children": [
+              {
+                "type": "gridrow",
+                "children": [
+                  {
+                    "type": "gridcolumn",
+                    "children": [
+                      {
+                        "type": "field",
+                        "properties": {
+                          "key": "name"
+                        }
+                      },
+                      {
+                        "type": "field",
+                        "properties": {
+                          "key": "external_id"
+                        }
+                      },
+                      {
+                        "type": "field",
+                        "properties": {
+                          "key": "account_department"
+                        }
+                      },
+                      {
+                        "type": "field",
+                        "properties": {
+                          "key": "status"
+                        }
+                      },
+                      {
+                        "type": "field",
+                        "properties": {
+                          "key": "type"
+                        }
+                      },
+                      {
+                        "type": "field",
+                        "properties": {
+                          "key": "sales_rep_id"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "properties": {
+              "gutter": true,
+              "columns": 1.0
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
